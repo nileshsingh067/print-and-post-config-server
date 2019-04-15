@@ -1,3 +1,6 @@
-# print-and-post-config-server7
+# print-and-post-config-server
 
-Spring cloud configuration for print-and-post
+Manage Spring cloud configuration for print-and-post
+
+
+
